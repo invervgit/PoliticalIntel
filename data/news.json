@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T21:30:34.367243+00:00",
+  "generated_at": "2026-09-11T23:48:03.401723+00:00",
   "stories": [
     {
       "id": "16b8406f808894248b94e1bbee5e9c3f",
@@ -44189,17 +44189,186 @@
       "lang": "en"
     },
     {
+      "id": "15f140a0026a5fb3b61e896e79f02897",
+      "title": "चीन के सरकारी मीडिया का सुर बदला: अब भारत के साथ आर्थिक सहयोग की बात हो रही, जिनपिंग के दिल्ली दौरे पर नजरें",
+      "link": "https://www.amarujala.com/india-news/chinese-state-media-tone-shift-talk-over-economic-cooperation-with-india-eyes-on-xi-jinping-delhi-visit-brics-2026-09-12",
+      "summary": "चीन के सरकारी मीडिया का सुर बदला: अब भारत के साथ आर्थिक सहयोग की बात हो रही, जिनपिंग के दिल्ली दौरे पर नजरें",
+      "date": "2026-09-12",
+      "timestamp": "Sat, 12 Sep 2026 05:11:00 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "5fba97d679860891abe123a463e1ee44",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 12 सितम्बर के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-09-12",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-09-12",
+      "timestamp": "Sat, 12 Sep 2026 05:00:28 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "8b65059283877afceddc0f03b0fe181d",
       "title": "पढ़ें 12 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-12",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-09-12",
-      "timestamp": "Sat, 12 Sep 2026 03:00:18 +0530",
+      "timestamp": "Sat, 12 Sep 2026 05:00:16 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "c2bed055da65765c483d56d5469af08d",
+      "title": "खुलासा: यूपी समेत पांच राज्यों की हल्दी में सीसे की मिलावट, 30% नमूने फेल; बच्चों की सेहत पर कितना बड़ा खतरा?",
+      "link": "https://www.amarujala.com/india-news/revelation-lead-contamination-in-turmeric-including-up-five-states-30-percent-samples-fail-2026-09-12",
+      "summary": "खुलासा: यूपी समेत पांच राज्यों की हल्दी में सीसे की मिलावट, 30% नमूने फेल; बच्चों की सेहत पर कितना बड़ा खतरा?",
+      "date": "2026-09-12",
+      "timestamp": "Sat, 12 Sep 2026 04:32:22 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "5fd8a43f9c26bea4c2483342dd4ea000",
+      "title": "CIA releases dozens of presidential daily briefs on Laden and al-Qaeda",
+      "link": "https://www.thehindu.com/news/international/cia-releases-dozens-of-presidential-daily-briefs-on-laden-and-al-qaeda/article71458038.ece",
+      "summary": "The documents range from a February 1998 file — prepared for then-President Bill Clinton — entitled “Terrorists seeking WMD capability” and mentioning “bin Ladin and other Islamic extremists” to a Sept. 12, 2001, report in which a source indicated the attacks had been planned for two years and had also targeted the U.S. Capitol.",
+      "date": "2026-09-12",
+      "timestamp": "Sat, 12 Sep 2026 04:30:56 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ec2b6353c8d3cc023003d2f6d518c2e2",
+      "title": "ब्रिक्स समिट LIVE: आज दोपहर दिल्ली आएंगे जिनपिंग; इंडोनेशिया, फिलीपींस और अफ्रीका से भारत पहुंचे कई और मेहमान",
+      "link": "https://www.amarujala.com/live/india-news/brics-summit-delhi-live-updates-china-jinping-pm-modi-philippines-indonesia-guest-bharat-mandapam-meet-glimpse-2026-09-12",
+      "summary": "ब्रिक्स समिट LIVE: आज दोपहर दिल्ली आएंगे जिनपिंग; इंडोनेशिया, फिलीपींस और अफ्रीका से भारत पहुंचे कई और मेहमान",
+      "date": "2026-09-12",
+      "timestamp": "Sat, 12 Sep 2026 04:19:04 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "2919a1e7f34d4a4af89f195d902f3b70",
+      "title": "भारत-चीन संबंध: ब्रिक्स के लिए दिल्ली आ रहे जिनपिंग, पीएम मोदी के साथ द्विपक्षीय वार्ता पर ड्रैगन का रुख क्या?",
+      "link": "https://www.amarujala.com/india-news/brics-summit-2026-prez-xi-jinping-pm-modi-meeting-in-delhi-india-china-bilateral-talk-photo-hindi-news-updates-2026-09-12",
+      "summary": "भारत-चीन संबंध: ब्रिक्स के लिए दिल्ली आ रहे जिनपिंग, पीएम मोदी के साथ द्विपक्षीय वार्ता पर ड्रैगन का रुख क्या?",
+      "date": "2026-09-12",
+      "timestamp": "Sat, 12 Sep 2026 04:16:26 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "62ceedbdc6babebdfe5bf9c65edae070",
+      "title": "‘That’s why we fight’: Trump links 9/11 to Iran conflict",
+      "link": "https://www.thehindu.com/news/international/thats-why-we-fight-trump-links-911-to-iran-conflict/article71458035.ece",
+      "summary": "Mr. Trump went on to link the fight against Al-Qaeda launched by his Republican predecessor George W. Bush to the U.S.-Israeli war on Iran which is now in its seventh month",
+      "date": "2026-09-12",
+      "timestamp": "Sat, 12 Sep 2026 04:15:16 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "589f5a8f6c208c60f6a69726fcc1a6f0",
+      "title": "Gauhati High Court says ‘talaq-e-hassan’ is a valid form of divorce",
+      "link": "https://www.thehindu.com/news/national/assam/gauhati-high-court-says-talaq-e-hassan-is-a-valid-form-of-divorce/article71456358.ece",
+      "summary": "The court has directed the petitioner to register his divorce under the Assam Compulsory Registration of Muslim Marriages and Divorce Act, 2024",
+      "date": "2026-09-12",
+      "timestamp": "Sat, 12 Sep 2026 03:58:31 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2f552e72cd7263e2e23c7ad93310724e",
+      "title": "न्यूज डायरी: छत्तीसगढ़ पीएससी पेपर लीक में एडिशनल कलेक्टर गिरफ्तार; बाबा बागेश्वर को सीएम शुभेंदु ने दिया जवाब",
+      "link": "https://www.amarujala.com/india-news/national-updates-12th-sept-chhattisgarh-psc-paper-leak-bengal-cm-suvendu-eat-fish-north-east-west-south-news-2026-09-12",
+      "summary": "न्यूज डायरी: छत्तीसगढ़ पीएससी पेपर लीक में एडिशनल कलेक्टर गिरफ्तार; बाबा बागेश्वर को सीएम शुभेंदु ने दिया जवाब",
+      "date": "2026-09-12",
+      "timestamp": "Sat, 12 Sep 2026 03:51:48 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "3a19eb1562304009041ef98804562b84",
+      "title": "Tejashwi writes to Bihar CM demanding life-size statues of Ram Vilas, Sharad Yadav and Raghuvansh",
+      "link": "https://www.thehindu.com/news/national/bihar/tejashwi-writes-to-bihar-cm-demanding-life-size-statuesof-ram-vilas-sharad-yadav-and-raghuvansh/article71456264.ece",
+      "summary": "Mr. Yadav’s move is seen as an addition to Rashtriya Janata Dal’s (RJD) broader plan of asserting itself as a party which stands for the “A to Z” castes and communities.",
+      "date": "2026-09-12",
+      "timestamp": "Sat, 12 Sep 2026 03:37:30 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cb8f2806cd8aa2afaf4c905df71a998a",
+      "title": "त्योहारी सीजन में IRCTC ने बनाया एक दिन में टिकट बुकिंग का नया रिकॉर्ड",
+      "link": "https://www.amarujala.com/video/india-news/irctc-sets-a-new-record-for-single-day-ticket-bookings-during-the-festive-season-2026-09-12",
+      "summary": "त्योहारी सीजन में IRCTC ने बनाया एक दिन में टिकट बुकिंग का नया रिकॉर्ड",
+      "date": "2026-09-12",
+      "timestamp": "Sat, 12 Sep 2026 03:30:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "fbc726550a2e815469ca0d0c071a5a57",
+      "title": "ब्रिक्स: आज नई भुगतान प्रणाली पर सहमति के आसार, पीएम मोदी का नवाचार पर जोर; पुतिन क्यों बोले- पश्चिम अब कमजोर?",
+      "link": "https://www.amarujala.com/india-news/business-forum-highlights-brics-pay-payment-talk-pm-modi-innovate-india-putin-west-weak-iran-prez-pezeshkian-2026-09-12",
+      "summary": "ब्रिक्स: आज नई भुगतान प्रणाली पर सहमति के आसार, पीएम मोदी का नवाचार पर जोर; पुतिन क्यों बोले- पश्चिम अब कमजोर?",
+      "date": "2026-09-12",
+      "timestamp": "Sat, 12 Sep 2026 03:26:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "8639ab86519507d6f362832ef69d962e",
+      "title": "Allahabad HC seeks Uttar Pradesh govt’s reply over Saharanpur Mosque demolition, stays ₹6.41 crore damage recovery",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-seeks-uttar-pradesh-governments-reply-over-saharanpur-mosque-demolition-stays-641-crore-damage-recovery/article71456149.ece",
+      "summary": "The petitioner submitted in the court that authorities moved quickly to demolish the mosque, tearing it down within three days of the eviction order.",
+      "date": "2026-09-12",
+      "timestamp": "Sat, 12 Sep 2026 03:09:48 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "3d0245ffb25f30110f16cacbfe8b5d6e",
@@ -44956,19 +45125,6 @@
       "lang": "en"
     },
     {
-      "id": "5fba97d679860891abe123a463e1ee44",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 12 सितम्बर के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-09-12",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-09-12",
-      "timestamp": "Sat, 12 Sep 2026 02:30:25 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "0957135f8066ce331f7dd51888dc84d4",
       "title": "Lucknow News: गोंडा के विनोद साहनी हत्याकांड के विरोध में सपा का प्रदर्शन",
       "link": "https://www.amarujala.com/lucknow/sp-protest-against-the-murder-of-vinod-sahni-in-gonda-lucknow-news-c-13-1-lko1029-1916145-2026-09-12",
@@ -45146,6 +45302,19 @@
       "timestamp": "Sat, 12 Sep 2026 02:25:42 +0530",
       "section": "National",
       "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0f90886f757464edeed3b6a0e6d4bb75",
+      "title": "Yemen’s Houthis seize strategic island at the southern entrance to the Red Sea",
+      "link": "https://www.thehindu.com/news/international/yemens-houthis-reach-strategic-island-at-mouth-of-vital-shipping-lane/article71455868.ece",
+      "summary": "The Houthis’ biggest territorial gains in years, along the Bab el-Mandeb Strait, could boost Iran’s strategy of driving up world oil and gas prices to pressure the United States.",
+      "date": "2026-09-12",
+      "timestamp": "Sat, 12 Sep 2026 02:17:46 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -45435,19 +45604,6 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
-    },
-    {
-      "id": "ec2b6353c8d3cc023003d2f6d518c2e2",
-      "title": "ब्रिक्स समिट LIVE: आज दोपहर दिल्ली आएंगे जिनपिंग; इंडोनेशिया, फिलीपींस और अफ्रीका से भारत पहुंचे कई और मेहमान",
-      "link": "https://www.amarujala.com/live/india-news/brics-summit-delhi-live-updates-china-jinping-pm-modi-philippines-indonesia-guest-bharat-mandapam-meet-glimpse-2026-09-12",
-      "summary": "ब्रिक्स समिट LIVE: आज दोपहर दिल्ली आएंगे जिनपिंग; इंडोनेशिया, फिलीपींस और अफ्रीका से भारत पहुंचे कई और मेहमान",
-      "date": "2026-09-12",
-      "timestamp": "Sat, 12 Sep 2026 01:10:08 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "25c77055a10a2cb33720c9dc3bc91653",
@@ -65639,6 +65795,19 @@
       "lang": "en"
     },
     {
+      "id": "c6ad5670c519bca4feaf30587c96020d",
+      "title": "UN extends partial Sudan arms embargo for a month",
+      "link": "https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss",
+      "summary": "Sudan’s UN ambassador said a total arms embargo goes against the UN Charter that guarantees a right to self-defence.",
+      "date": "2026-09-11",
+      "timestamp": "Fri, 11 Sep 2026 23:08:05 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "dbd196ac36c68fc205d1662708ef6f3b",
       "title": "Kerala High Court affirms tender process for demolition of Chander Kunj Army Towers",
       "link": "https://www.thehindu.com/news/national/kerala/kerala-high-court-affirms-tender-process-for-demolition-of-chanderkunj-army-towers/article71455719.ece",
@@ -65687,6 +65856,32 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "16ca9f23a47fe5685662537ab0fc9d0c",
+      "title": "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
+      "link": "https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss",
+      "summary": "The investigation came to light as Brazil's Supreme Court unseals files related to the Banco Master corruption scandal.",
+      "date": "2026-09-11",
+      "timestamp": "Fri, 11 Sep 2026 22:57:51 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "58984ceefc03ae30f4c0649cd1ee1571",
+      "title": "Arrest made over the death of black woman found hanged from tree",
+      "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
+      "date": "2026-09-11",
+      "timestamp": "Fri, 11 Sep 2026 22:57:42 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -65834,6 +66029,19 @@
       "lang": "en"
     },
     {
+      "id": "4735558be3cb9f33bcb4d40907cec62f",
+      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+      "date": "2026-09-11",
+      "timestamp": "Fri, 11 Sep 2026 22:17:45 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "5eb9db7585932ad40f35ea58b367ab77",
       "title": "Govt education policy is for Gen Alpha, Gen Beta and skills for Gen Z, Revanth tells Assembly",
       "link": "https://www.thehindu.com/news/national/telangana/govt-education-policy-is-for-gen-alpha-gen-beta-and-skills-for-gen-z-revanth-tells-assembly/article71457576.ece",
@@ -65934,6 +66142,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e3bc26c8006e985f645567bcad47aead",
+      "title": "Israeli demolitions threaten schools and homes in Masafer Yatta",
+      "link": "https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss",
+      "summary": "Students pledge to continue learning as Masafer Yatta demolitions target homes, schools, and their right to education.",
+      "date": "2026-09-11",
+      "timestamp": "Fri, 11 Sep 2026 21:53:34 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -66081,6 +66302,32 @@
       "lang": "en"
     },
     {
+      "id": "31469b2f65b00b71d69ff1cc6fb515ea",
+      "title": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
+      "link": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
+      "summary": "Iraq condemns the attack, dismisses a military commander who led operations in Maysan province.",
+      "date": "2026-09-11",
+      "timestamp": "Fri, 11 Sep 2026 21:30:47 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f8cb840668c01ea37c33427d59dd2b16",
+      "title": "Sabalenka vs Rybakina: US Open women’s singles final – start, prize, form",
+      "link": "https://www.aljazeera.com/sports/2026/9/11/sabalenka-rybakina-us-open-2026-womens-singles-final-time-form-head-to-head?traffic_source=rss",
+      "summary": "Top seeds Aryna Sabalenka and Elena Rybakina clash in a Grand Slam final for the second time this year.",
+      "date": "2026-09-11",
+      "timestamp": "Fri, 11 Sep 2026 21:28:34 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "c8bc708d8ee994c248ec26895c0312cf",
       "title": "Youth held with 305 grams of suspected MDMA in Kochi",
       "link": "https://www.thehindu.com/news/national/kerala/youth-held-with-305-grams-of-suspected-mdma-in-kochi/article71456617.ece",
@@ -66090,6 +66337,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "073c6019d8d155781544b2a2abff644c",
+      "title": "Passenger train derails in France leaving at least 44 injured",
+      "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+      "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
+      "date": "2026-09-11",
+      "timestamp": "Fri, 11 Sep 2026 21:25:32 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -66129,6 +66389,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3247c4bb10a95a714cb070d4ec704d75",
+      "title": "Somber tributes as US marks the 25th anniversary of September 11 attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss",
+      "summary": "Families are remembering the loved ones they lost in the September 11, 2001 attacks on the US.",
+      "date": "2026-09-11",
+      "timestamp": "Fri, 11 Sep 2026 21:23:51 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -66575,6 +66848,19 @@
       "lang": "en"
     },
     {
+      "id": "81a96c3cc409b56ec438774309f6f913",
+      "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+      "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+      "date": "2026-09-11",
+      "timestamp": "Fri, 11 Sep 2026 20:34:29 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "9a74c06fc8d8162d77b2a9decfbd6edf",
       "title": "यूपी में विशेष शिक्षक भर्ती की इस शर्त को हाई कोर्ट ने ठहराया सही, याचिका खारिज",
       "link": "https://www.livehindustan.com/uttar-pradesh/allahabad-high-court-upheld-condition-for-recruitment-of-basic-education-council-special-teachers-dismissing-petition-201789137639431.html",
@@ -66662,19 +66948,6 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "4735558be3cb9f33bcb4d40907cec62f",
-      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-      "date": "2026-09-11",
-      "timestamp": "Fri, 11 Sep 2026 20:11:47 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -67663,19 +67936,6 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "0f90886f757464edeed3b6a0e6d4bb75",
-      "title": "Yemen's Houthis reach strategic island at mouth of vital shipping lane",
-      "link": "https://www.thehindu.com/news/international/yemens-houthis-reach-strategic-island-at-mouth-of-vital-shipping-lane/article71455868.ece",
-      "summary": "If the Houthis gain full control of the Bab el-Mandeb Strait, on the opposite side of the Arabian Peninsula from ‌the Strait of Hormuz, it could give their backer Iran a critical advantage in the war with the U.S.",
-      "date": "2026-09-11",
-      "timestamp": "Fri, 11 Sep 2026 17:34:36 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
       "district": "",
       "lang": "en"
     },
@@ -86721,6 +86981,45 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "450aad85766784b92b605a78b8bf4c70",
+      "title": "40% of global GDP is here: PM Modi",
+      "link": "https://timesofindia.indiatimes.com/india/40-of-global-gdp-is-here-pm-modi/articleshow/134092501.cms",
+      "summary": "",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-12T03:29:28+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b3efc06076be4c1854b18ccbf217e32b",
+      "title": "Cong drowned India, we rebuilt it: BJP",
+      "link": "https://timesofindia.indiatimes.com/india/cong-drowned-india-we-rebuilt-it-bjp/articleshow/134092388.cms",
+      "summary": "",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-12T03:19:50+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "494940c60ba13413ea5aec3d00c7f785",
+      "title": "Tharoor: Hosting Brics matter of 'great prestige'",
+      "link": "https://timesofindia.indiatimes.com/india/tharoor-hosting-brics-matter-of-great-prestige/articleshow/134092242.cms",
+      "summary": "",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-12T03:15:16+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
